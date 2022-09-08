@@ -1,4 +1,4 @@
-# spoken-speech-classification
+# spoken-label-recognition
 
 ## What’s the point?
 
